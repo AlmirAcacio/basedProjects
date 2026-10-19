@@ -1,0 +1,25 @@
+# Virtual Environments
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution and Packaging
+
+build/
+dist/
+*.egg-info/
+
+# Tests and Coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints

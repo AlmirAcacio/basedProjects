@@ -1,0 +1,20 @@
+# Bundler and Installed Gems
+
+/vendor/bundle
+.bundle/
+
+# Temporary Files and Logs
+
+log/*.log
+tmp/
+.ruby-lsp/
+
+# Ruby on Mills and Sidekiq
+
+*.pid
+db/*.sqlite3
+db/*.sqlite3.journal
+
+# Ruby Version Local Configuration
+
+.ruby-version

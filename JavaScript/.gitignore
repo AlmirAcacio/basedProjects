@@ -1,0 +1,18 @@
+# Dependencies
+
+node_modules/
+jspm_packages/
+
+# Logs and Execution Files
+
+npm-depug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Builds and Environment Variables
+
+dist/
+build/
+.env
+.env.local

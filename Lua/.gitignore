@@ -1,0 +1,11 @@
+# Compilation and Bytecode
+
+*.luac
+*.o
+*.so
+*.dll
+
+# IDEs and Editors
+
+.vscode/
+*.rockspec.smp
